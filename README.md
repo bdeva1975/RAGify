@@ -1,5 +1,3 @@
-Here's a detailed `README.md` file for your repository named **RAGify**, which focuses on Retrieval-Augmented Generation:
-
 ```markdown
 # RAGify
 
